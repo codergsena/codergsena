@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello,I'm  Gülsena YILDIZ 👋
+Hello, I'm  Gülsena YILDIZ 👋
 
 About Me
 
