@@ -3,7 +3,7 @@ Hello, I'm  Gülsena YILDIZ 👋
 
 About Me
 
-- 🎓 Graduated in FIRAT University.
+- 🎓 Graduated in Fırat University.
 - 💭 I continue to take passionate steps forward by learning more about software.
 - 💼 I develop interactive user interfaces using HTML, CSS, BOOTSTRAP, SCSS, SASS, JAVASCRIPT and REACT.
 - 💫 I have a passion for developing functional web applications that are always open to improvement.
